@@ -15,3 +15,5 @@
 - [ ] Part 9: TypeScript
 - [ ] Part 10: React Native
 - [ ] Part 11: CI/CD
+- [ ] Part 12 :  Containers
+- [ ] Part 13 : Using relational databases
